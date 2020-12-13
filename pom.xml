@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.food</groupId>
-	<artifactId>eureka-server-food</artifactId>
+	<artifactId>ordermgmt-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eureka-server-food</name>
+	<name>ordermgmt-eureka-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -65,7 +65,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>eureka-server-food-1214PM</finalName>
+		<finalName>ordermgmt-eureka-server</finalName>
 	</build>
 
 	<repositories>
